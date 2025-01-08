@@ -26,10 +26,28 @@ arrayBuilder implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/
 ## 2. Callbacks and Higher-Order Functions Challenges
 
 ![3 1](https://github.com/user-attachments/assets/64f7156b-4bd2-488e-a835-d6fcb56275e1)
+
+multiMap implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.1%20multiMap.js
+#
+
 ![3 2](https://github.com/user-attachments/assets/fa75c47a-ed64-40e4-be18-36f24e5807eb)
+
+majority implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.2%20majority.js
+#
+
 ![3 3](https://github.com/user-attachments/assets/94269dd7-4055-4b26-b9fb-804aab0683c7)
+
+prioritize implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.3%20prioritize.js
+#
+
 ![3 4](https://github.com/user-attachments/assets/8d2dd220-1858-421e-b328-f7d7ce532235)
+
+groupBy implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.4%20groupBy.js
+#
+
 ![3 5](https://github.com/user-attachments/assets/c58954df-c55d-40cc-9972-7cf988b3ddb7)
+
+goodKeys implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.5%20goodKeys.js
 #
 
 ## 3. Closures, Scope and Execution Context Challenges
