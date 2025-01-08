@@ -9,8 +9,18 @@
 ## 1.  Functions and Execution Context Challenges
 
 ![2 1](https://github.com/user-attachments/assets/5c74f167-4e96-486e-acef-5ed75602297e)
+
+addWaldo implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/1.1%20addWaldo.js
+#
+
 ![2 3](https://github.com/user-attachments/assets/a437fe01-069b-4623-bfa5-8184b86c2c4a)
+
+findWaldo implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/1.2%20findWaldo.js
+#
+
 ![2 4](https://github.com/user-attachments/assets/4d577f06-0c2a-43a3-8ce2-63f24f07c0fc)
+
+arrayBuilder implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/1.3%20arrayBuilder.js
 #
 
 ## 2. Callbacks and Higher-Order Functions Challenges
