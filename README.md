@@ -80,12 +80,20 @@ censor implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3
 ## 4. Object-Oriented Programming Challenges
 
 ![5 1](https://github.com/user-attachments/assets/d1934461-d115-4597-8a46-5548b5f9b70d)
+
+personFromConstructor implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/4.1%20personFromConstructor.js
+#
+
 ![5 2](https://github.com/user-attachments/assets/b4e2651b-72ca-4cbf-a10a-7a138e55fb1c)
+
+Dog Constructor implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/4.2%20Dog%20Constructor.js
+#
+
 ![5 3](https://github.com/user-attachments/assets/9fc4bf3a-176b-4a91-8418-57c1ebe60cd4)
+
+Inventory implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/4.3%20Inventory.js
+#
+
 ![5 4](https://github.com/user-attachments/assets/2c098a6c-6a07-4e5c-a41b-c47dc9c929e1)
 
-
-
-
-
-
+Chain Stores implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/4.4%20Chain%20Stores.js
