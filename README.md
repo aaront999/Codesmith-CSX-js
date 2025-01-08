@@ -24,7 +24,7 @@
 
 ## 3. Closures, Scope and Execution Context Challenges
 
-![4 1](https://github.com/user-attachments/assets/ff7f136e-3324-4722-a4e7-927e886c24a1)
+![4 1](https://github.com/user-attachments/assets/81bc4b8c-6efe-45a1-9688-1764e61a4783)
 ![4 2](https://github.com/user-attachments/assets/52756a16-4911-4741-98c0-26dd6d499a1b)
 ![4 3](https://github.com/user-attachments/assets/0f8229db-0222-4200-a9aa-7719a492ba1e)
 ![4 4](https://github.com/user-attachments/assets/44099d3a-7683-4918-8243-bd8ce194a4ed)
