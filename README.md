@@ -4,9 +4,8 @@
 
 #### NOTE: Full code implementations cannot be fully displayed via screenshots. However, I have conveniently linked each full code repository to its corresponding challenge for detailed review.
 #
-# >>> Currently Work-in-Progress On Documentation <<<
 
-## 1.  Functions and Execution Context Challenges
+# 1.  Functions and Execution Context Challenges
 
 ![2 1](https://github.com/user-attachments/assets/5c74f167-4e96-486e-acef-5ed75602297e)
 
@@ -23,7 +22,7 @@ findWaldo implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/mai
 arrayBuilder implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/1.3%20arrayBuilder.js
 #
 
-## 2. Callbacks and Higher-Order Functions Challenges
+# 2. Callbacks and Higher-Order Functions Challenges
 
 ![3 1](https://github.com/user-attachments/assets/64f7156b-4bd2-488e-a835-d6fcb56275e1)
 
@@ -50,7 +49,7 @@ groupBy implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/
 goodKeys implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/2.5%20goodKeys.js
 #
 
-## 3. Closures, Scope and Execution Context Challenges
+# 3. Closures, Scope and Execution Context Challenges
 
 ![4 1](https://github.com/user-attachments/assets/81bc4b8c-6efe-45a1-9688-1764e61a4783)
 
@@ -77,7 +76,7 @@ hobbyTracker implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/
 censor implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.5%20censor.js
 #
 
-## 4. Object-Oriented Programming Challenges
+# 4. Object-Oriented Programming Challenges
 
 ![5 1](https://github.com/user-attachments/assets/d1934461-d115-4597-8a46-5548b5f9b70d)
 
