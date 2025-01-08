@@ -53,10 +53,28 @@ goodKeys implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main
 ## 3. Closures, Scope and Execution Context Challenges
 
 ![4 1](https://github.com/user-attachments/assets/81bc4b8c-6efe-45a1-9688-1764e61a4783)
+
+delay implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.1%20delay.js
+#
+
 ![4 2](https://github.com/user-attachments/assets/52756a16-4911-4741-98c0-26dd6d499a1b)
+
+saveOutput implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.2%20saveOutput.js
+#
+
 ![4 3](https://github.com/user-attachments/assets/0f8229db-0222-4200-a9aa-7719a492ba1e)
+
+cycleIterator implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.3%20cycleIterator.js
+#
+
 ![4 4](https://github.com/user-attachments/assets/44099d3a-7683-4918-8243-bd8ce194a4ed)
+
+hobbyTracker implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.4%20hobbyTracker.js
+#
+
 ![4 5](https://github.com/user-attachments/assets/565a3d82-f222-4717-b50c-0786b6896467)
+
+censor implementation: https://github.com/aaront999/Codesmith-CSX-js/blob/main/3.5%20censor.js
 #
 
 ## 4. Object-Oriented Programming Challenges
